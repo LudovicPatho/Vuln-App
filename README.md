@@ -47,7 +47,3 @@
 [Splunk Rules](https://github.com/anil-yelken/splunk-rules)
 
 [Anomali STAXX Get IOC](https://github.com/anil-yelken/anomali-staxx-get-ioc)
-
-## Presentation
-
-[OWASP Istanbul - Vulnerable Flask App](https://github.com/anil-yelken/OWASP-Istanbul-Vulnerable-Flask-App)
